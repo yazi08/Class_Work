@@ -11,6 +11,10 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+<<<<<<< Updated upstream
+=======
+        <option value="Python Script" />
+>>>>>>> Stashed changes
       </list>
     </option>
   </component>
